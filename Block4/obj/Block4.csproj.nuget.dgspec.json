@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dacup\\Desktop\\Centriq\\CSF1_Students_Version\\Block4\\Block4.csproj": {}
+    "C:\\Users\\Dacup\\Desktop\\Centriq\\CSF1_Student\\Block4\\Block4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dacup\\Desktop\\Centriq\\CSF1_Students_Version\\Block4\\Block4.csproj": {
+    "C:\\Users\\Dacup\\Desktop\\Centriq\\CSF1_Student\\Block4\\Block4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dacup\\Desktop\\Centriq\\CSF1_Students_Version\\Block4\\Block4.csproj",
+        "projectUniqueName": "C:\\Users\\Dacup\\Desktop\\Centriq\\CSF1_Student\\Block4\\Block4.csproj",
         "projectName": "Block4",
-        "projectPath": "C:\\Users\\Dacup\\Desktop\\Centriq\\CSF1_Students_Version\\Block4\\Block4.csproj",
+        "projectPath": "C:\\Users\\Dacup\\Desktop\\Centriq\\CSF1_Student\\Block4\\Block4.csproj",
         "packagesPath": "C:\\Users\\Dacup\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dacup\\Desktop\\Centriq\\CSF1_Students_Version\\Block4\\obj\\",
+        "outputPath": "C:\\Users\\Dacup\\Desktop\\Centriq\\CSF1_Student\\Block4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
