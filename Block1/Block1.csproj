@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Block1.Variable</StartupObject>
+    <StartupObject>Block1.DataTypes_Unsolved</StartupObject>
   </PropertyGroup>
 
 </Project>
