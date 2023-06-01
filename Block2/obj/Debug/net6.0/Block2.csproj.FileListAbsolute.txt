@@ -13,3 +13,18 @@ C:\Users\Guest 4\Desktop\CSF1\CSF1\Block2\obj\Debug\net6.0\refint\Block2.dll
 C:\Users\Guest 4\Desktop\CSF1\CSF1\Block2\obj\Debug\net6.0\Block2.pdb
 C:\Users\Guest 4\Desktop\CSF1\CSF1\Block2\obj\Debug\net6.0\Block2.genruntimeconfig.cache
 C:\Users\Guest 4\Desktop\CSF1\CSF1\Block2\obj\Debug\net6.0\ref\Block2.dll
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\bin\Debug\net6.0\Block2.exe
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\bin\Debug\net6.0\Block2.deps.json
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\bin\Debug\net6.0\Block2.runtimeconfig.json
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\bin\Debug\net6.0\Block2.dll
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\bin\Debug\net6.0\Block2.pdb
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\obj\Debug\net6.0\Block2.csproj.AssemblyReference.cache
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\obj\Debug\net6.0\Block2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\obj\Debug\net6.0\Block2.AssemblyInfoInputs.cache
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\obj\Debug\net6.0\Block2.AssemblyInfo.cs
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\obj\Debug\net6.0\Block2.csproj.CoreCompileInputs.cache
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\obj\Debug\net6.0\Block2.dll
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\obj\Debug\net6.0\refint\Block2.dll
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\obj\Debug\net6.0\Block2.pdb
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\obj\Debug\net6.0\Block2.genruntimeconfig.cache
+C:\Users\Dacup\Desktop\Centriq\CSF1_Student\Block2\obj\Debug\net6.0\ref\Block2.dll

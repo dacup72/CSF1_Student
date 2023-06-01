@@ -33,7 +33,8 @@ namespace Block2
 
             //Implicit casting (byte to a long)
             //===========================   INSERT CODE BELOW   ========================================
-
+            fridgeBox = toothpasteBox;
+            Console.WriteLine("My fridge " + fridgeBox);
 
 
 
@@ -41,8 +42,8 @@ namespace Block2
             //Not casting, just assigning the value
             //of a variable from one container to another of the SAME data type.
             //===========================   INSERT CODE BELOW   ========================================
-
-
+            long oven = fridgeBox;
+			Console.WriteLine("My oven " + oven);
 
 
             //toothpasteBox = fridgeBox;
@@ -58,10 +59,13 @@ namespace Block2
 
             //casting shoeBox value to a toothpasteBox explicitly
             //===========================   INSERT CODE BELOW   ========================================
+            toothpasteBox = (byte)shoeBox;
+            Console.WriteLine(toothpasteBox);
 
 
 
-            /*
+
+			/*
              * If you explicitly cast a LARGER value to a 
              * small container... you get a mess (truncation)
              * 
@@ -70,32 +74,41 @@ namespace Block2
              * 
              */
 
-            //toothpasteBox is equal to the byte version of the movingBox
-            //===========================   INSERT CODE BELOW   ========================================
-
+			//toothpasteBox is equal to the byte version of the movingBox
+			//===========================   INSERT CODE BELOW   ========================================
+			toothpasteBox = (byte)movingBox;
+			Console.WriteLine(toothpasteBox);
 
 
             //Cast the long into the int and display it:
             //===========================   INSERT CODE BELOW   ========================================
+            long myLong = 55;
+            int myInt = 99;
+
+            myInt = (int)myLong;
+            Console.WriteLine(myInt);
 
 
 
-            
             //m or M is a shortcut for explicitly casting
             //a double to a decimal
             //===========================   INSERT CODE BELOW   ========================================
-
-
-
             
-
-            //An example where truncation might actually be useful:
-            //===========================   INSERT CODE BELOW   ========================================
-
-
-            
+            double myDouble = 66.6;
+            decimal myDecimal = (decimal)myDouble;
 
 
+
+
+			//An example where truncation might actually be useful:
+			//===========================   INSERT CODE BELOW   ========================================
+			decimal deathStars = 1.75m;
+			int completedDS = (int)deathStars;
+			Console.WriteLine("Out of " + deathStars +
+				" Death Stars, only " + completedDS +
+				" was completed.");
+           
+            Console.WriteLine(deathStars.ToString() + " hello");
 
         } //end method
     }//end class
