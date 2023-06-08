@@ -60,9 +60,9 @@ namespace Block4
 
 			//for (int count = 0; count < scores.Length; count++)
 			//{
-			//    Console.Write("Enter a score ({0}): ", count + 1);
-			//    scores[count] = int.Parse(Console.ReadLine());
-			//    Console.Clear();
+			//	Console.Write("Enter a score ({0}): ", count + 1);
+			//	scores[count] = int.Parse(Console.ReadLine());
+			//	Console.Clear();
 			//}
 
 			//Array.Sort(scores);
@@ -75,6 +75,53 @@ namespace Block4
 			//scores[0],
 			//scores[scores.Length - 1],
 			//average);
+
+
+
+
+
+
+
+
+
+			// Instructr Dylan Example
+
+			//decimal[] scores = new decimal[5];
+			//Console.WriteLine("Please enter your scores between 0 - 100");
+
+			//for (int i = 0; i < scores.Length; i++)
+			//{
+			//	bool invalidInput = true;
+
+			//	while (invalidInput)
+			//	{
+			//		Console.Write($"Please enter score number {i + 1}:  ");
+
+			//		if (decimal.TryParse(Console.ReadLine(), out decimal output))
+			//		{
+			//			if (output >= 0 && output <= 100)
+			//			{
+			//				scores[i] = output;
+			//				invalidInput = false;
+			//			}
+			//		}
+
+			//		if (invalidInput)
+			//			Console.WriteLine("Invalid score, please try again.");
+			//	}
+			//}
+
+			//Array.Sort(scores);
+
+			//Console.WriteLine(
+			//	$"The Sum of all scores is {scores.Sum()}\n" +
+			//	$"The Average of all scores is {scores.Average()}\n" +
+			//	$"The lowest score is {scores[0]}\n" +
+			//	$"The highest score is {scores[scores.Length - 1]}"
+			//);
+
+
+
 		}//end Main()
 	}//end class
 }//end Namespace
